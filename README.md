@@ -21,6 +21,26 @@
 - EMAIL : email username
 - PASSWORD : email password
 
+## Additional Information
+
+The folder db_trigger is not part of the REST API. It's the code for database trigger working on atlas. Uploaded for review purposes.
+
+## Deploy
+
+The REST API is deployed at heroku. https://pay-reminder.herokuapp.com/
+
+## Endpoints
+
+- POST /mail
+  - Body
+    - email
+    - message
+
+- POST /message
+  - Body
+    - message
+    - phone
+
 ## Installation
 
 ```bash
