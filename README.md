@@ -41,6 +41,10 @@ The REST API is deployed at heroku. https://pay-reminder.herokuapp.com/
     - message
     - phone
 
+## Flow Diagram
+
+![ Flow ](https://drive.google.com/uc?export=view&id=14TCodmUrRhFCbLHb4T_Afj7B0hwyXFtz)
+
 ## Installation
 
 ```bash
